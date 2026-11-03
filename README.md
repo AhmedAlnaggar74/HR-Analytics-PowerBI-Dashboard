@@ -5,7 +5,7 @@ An interactive and professional Power BI dashboard designed to analyze Human Res
 ---
 
 ## 🚀 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](docs/dashboard-preview.png)
 
 ---
 
